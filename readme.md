@@ -4,12 +4,12 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Rhanzzzyyy/AWD-FUNDAMENTALS>
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/pic1.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Fundamentals</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
@@ -20,9 +20,9 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://github.com/Rhanzzzyyy/AWD-FUNDAMENTALS)
 
-[![wakatime](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8.svg)](https://wakatime.com/badge/user/018dd99a-4985-4f98-8216-6ca6fe2ce0f8/project/63501637-9a31-42f0-960d-4d0ab47977f8)
+[![wakatime](https://wakatime.com/badge/user/4158b894-fa2f-451a-9245-b6307fcc82bc/project/65f46427-39ad-40f7-9a36-2ad5610a7c0d.svg)](https://wakatime.com/badge/user/4158b894-fa2f-451a-9245-b6307fcc82bc/project/65f46427-39ad-40f7-9a36-2ad5610a7c0d)
 
 ---
 
